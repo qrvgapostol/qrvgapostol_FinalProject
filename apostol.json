@@ -1,0 +1,25 @@
+{
+  "name": "Apostol",
+  "role": "Student",
+  "prelim_hoa": [
+    { "title": "1.1 Creating Virtual Machines", "https://github.com/qrvgapostol/qrvgapostol_FinalProject": "", "file": "assets/apostol/HOA_Prelim/'1.1 Hands-on Activity - Creating Virtual Machines_Apostol.pdf'" },
+    { "title": "2.1 SSH Key-Based Auth & GIT Setup", "https://github.com/qrvgapostol/qrvgapostol_FinalProject": "", "file": "assets/apostol/HOA_Prelim/'Activity 2 - SSH Key-Based Authentication and GIT Setup_Apostol.pdf'" },
+    { "title": "3.1 Install SSH Server (CentOS/RHEL8)", "https://github.com/qrvgapostol/qrvgapostol_FinalProject": "", "file": "assets/apostol/HOA_Prelim/'3.1 Hands-on Activity - Install SSH server on CentOS or RHEL 8_Apostol.pdf'" },
+    { "title": "4.1 Ansible Basics", "https://github.com/qrvgapostol/qrvgapostol_FinalProject": "", "file": "assets/apostol/HOA_Prelim/'4.1 Hands-on Activity_ Ansible Basics_Apostol.pdf'" },
+    { "title": "5.1 Implement Ansible Roles", "https://github.com/qrvgapostol/qrvgapostol_FinalProject": "", "file": "assets/apostol/HOA_Prelim/'Activity 5 - Consolidating Playbook plays_Apostol.pdf'" }
+  ],
+  "midterm_hoa": [
+    { "title": "6.1 Targeting Specific Nodes", "https://github.com/qrvgapostol/qrvgapostol_FinalProject": "", "file": "assets/apostol/HOA_Midterm/'Activity 6_Targeting Specific Nodes_Apostol.pdf'" },
+    { "title": "7.1 Managing Files & Creating Roles", "https://github.com/qrvgapostol/qrvgapostol_FinalProject": "", "file": "assets/apostol/HOA_Midterm/'Activity 7 - Managing Files and Creating Roles in Ansible_Apostol.pdf'" }
+  ],
+  "final_hoa": [
+    { "title": "11.1 Containerization", "https://github.com/qrvgapostol/qrvgapostol_FinalProject": "", "file": "assets/apostol/HOA_Finals/'Hands-on Activity 11.1_ Containerization_Apostol.pdf'" },
+    { "title": "12.1 Build Sample Web App (Docker)", "https://github.com/qrvgapostol/qrvgapostol_FinalProject": "", "file": "assets/apostol/HOA_Finals/'Hoa 12.1 (1).pdf'" }
+  ],
+  "exams": [
+    { "title": "Prelim Exam", "file": "assets/apostol/Exams/'Hoa 12.1 (1).pdf'" },
+    { "title": "Midterm Exam", "file": "assets/apostol/Exams/'Midterm Skills Exam - CPE 232_Apostol.pdf'" },
+    { "title": "Final Exam", "file": "assets/apostol/Exams/'Hands-on Final Exam_Apostol.pdf'" }
+  ],
+  "reflection": { "title": "Reflection and Learnings", "file": "assets/apostol/Reflection/reflection.txt" }
+}
